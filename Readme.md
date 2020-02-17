@@ -4,10 +4,10 @@
 
 You can find a file like : 
 
-*PHP 
-*HTML
-*JAVASCRIPT
-*SEO REFERENCEMENT
+* PHP 
+* HTML
+* JAVASCRIPT
+* SEO REFERENCEMENT
 
 
 ### WHY ?
